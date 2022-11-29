@@ -1,5 +1,5 @@
 # Assembly_Array_Sum
-An assignment from my Assembly class where I had to sum all the positive elements of an array and to alter any registers appropriately.
+An assignment from my Assembly class where I had to sum all the positive elements of an array and to alter any registers appropriately in x86 MASM syntax
 
 
 As per assignment instructions:
